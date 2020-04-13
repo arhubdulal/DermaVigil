@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-DermaVigil SwiftUI/Pods-DermaVigil SwiftUI-frameworks.sh
+${BUILT_PRODUCTS_DIR}/GTMSessionFetcher-framework/GTMSessionFetcher.framework
+${BUILT_PRODUCTS_DIR}/GoogleUtilities-framework/GoogleUtilities.framework
+${BUILT_PRODUCTS_DIR}/PromisesObjC-framework/FBLPromises.framework
+${BUILT_PRODUCTS_DIR}/nanopb-framework/nanopb.framework
